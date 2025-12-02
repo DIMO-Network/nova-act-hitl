@@ -4,7 +4,7 @@
 
 This project contains a reference implementation of an end-to-end human intervention service to enable Nova Act human-in-the-loop (HITL) patterns on AWS complete with a notifications system and single page app to manage human in the loop patterns.
 
-> ℹ️ **New to Nova Act and HITL patterns?** We recommend starting with a [basic example](https://github.com/amazon-agi-labs/nova-act-samples/examples/human_in_the_loop) and checking out the [Amazon Nova Act HITL documentation](https://github.com/amazon-agi-labs/nova-act-samples/examples/human_in_the_loop/README.md) before continuing.
+> ℹ️ **New to Nova Act and HITL patterns?** We recommend starting with a [basic example](https://github.com/amazon-agi-labs/nova-act-samples/blob/main/examples/human_in_the_loop/basic/README.md) and checking out the [Amazon Nova Act HITL documentation](https://docs.aws.amazon.com/nova-act/latest/userguide/hitl.html) before continuing.
 
 ## About Amazon Nova Act
 
